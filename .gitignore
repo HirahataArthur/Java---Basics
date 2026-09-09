@@ -1,0 +1,7 @@
+*.log
+venev/
+out/
+.idea/
+*.class
+*.iml
+
